@@ -1,0 +1,11 @@
+#端口和编码
+server:
+  port: 8088
+  session-timeout: 1800
+  tomcat:
+    uri-encoding: utf-8
+
+
+
+
+
