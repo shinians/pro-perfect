@@ -7,6 +7,9 @@
     <groupId>com.shinians</groupId>
     <artifactId>pro-perfect</artifactId>
     <version>1.0-SNAPSHOT</version>
-
+<modules>
+    <module>ch03-design23</module>
+    <module>hello-world</module>
+</modules>
 
 </project>
